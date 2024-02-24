@@ -17,7 +17,7 @@ Follow these steps to get the Eat-n-Split project up and running on your local m
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/eat-n-split.git
+   git clone https://github.com/Piyushmotwani/Eat-N-Split.git
    cd eat-n-split
    ```
 
